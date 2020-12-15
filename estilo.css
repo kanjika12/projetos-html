@@ -1,0 +1,10 @@
+body{background-image:url(fundo.png);
+    background-repeat: : no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;}
+
+.areaprincipal{width: 70%;
+              background-color: white;
+            
+              margin-top: -8px;
+              margin-right: -8px;}
